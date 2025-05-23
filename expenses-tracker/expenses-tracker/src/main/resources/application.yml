@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/expenses-tracker
+    url: jdbc:postgresql://localhost:5433/expenses-tracker
     username: postgres
-    password: Avocado100.
+    password: Abacate100.
 
   jpa:
     hibernate:
