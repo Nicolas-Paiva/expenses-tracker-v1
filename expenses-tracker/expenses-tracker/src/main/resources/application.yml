@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/expenses-tracker
+    username: postgres
+    password: Avocado100.
+
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
